@@ -19,7 +19,9 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | Folder | Contents | Status |
 |--------|----------|--------|
 | week1  | Python Basics — variables, loops, functions | ✅ Done |
-| week2  | Python OOP + Classes | 🔄 In Progress |
+| week2/day1 | Classes, __init__, self, methods | ✅ Done |
+| week2/day2 | Inheritance, BasePage, Page Objects | ✅ Done |
+| week2/day3 | Multiple classes, pages + tests folders | ✅ Done |
 | week3  | Playwright UI Automation | ⏳ Coming Soon |
 
 ## 🏆 Portfolio Projects
