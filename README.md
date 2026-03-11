@@ -18,15 +18,11 @@ from Manual QA to Full-Stack QA Automation Engineer.
 ## 📁 Repository Structure
 | Folder | Contents | Status |
 |--------|----------|--------|
-| week1  | Python Basics — variables, loops, functions | ✅ Done |
-<<<<<<< HEAD
+| week1 | Python Basics — variables, loops, functions | ✅ Done |
 | week2/day1 | Classes, __init__, self, methods | ✅ Done |
 | week2/day2 | Inheritance, BasePage, Page Objects | ✅ Done |
 | week2/day3 | Multiple classes, pages + tests folders | ✅ Done |
-=======
-| week2  | Python OOP + Classes +Inheritance — Day 2 complete 😎 | 🔄 In Progress |
->>>>>>> 210315bc4a52a993334d940873d0365ba6eec2fe
-| week3  | Playwright UI Automation | ⏳ Coming Soon |
+| week3 | Playwright UI Automation | ⏳ Coming Soon |
 
 ## 🏆 Portfolio Projects
 1. Python Test Data Generator (Week 2)
@@ -41,5 +37,5 @@ from Manual QA to Full-Stack QA Automation Engineer.
 - AWS Cloud Practitioner CLF-C02
 
 ## 📬 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/manisha-wadhwa-9486bb142/)  
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
 manisha8231@gmail.com
