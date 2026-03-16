@@ -1,3 +1,5 @@
+# ── TEST CASE CLASS ───────────────────────────────
+
 class TestCase:
     def __init__(self, name , priority="Medium", category="UI"):
         self.name     = name
