@@ -23,7 +23,9 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week2/day2 | Inheritance, BasePage, Page Objects | ✅ Done |
 | week2/day3 | Multiple classes, pages + tests folders | ✅ Done |
 | week2/day4 | Shopping Cart framework — Product, Cart, Checkout | ✅ Done |
-| week2/day5 | TestSuite mini framework — Regression suite | ✅ Done |
+| week2/day5 | TestSuite mini framework — Rogers regression suite | ✅ Done |
+| week2/day6 | Extended TestSuite — categories, priority filter, skip | ✅ Done |
+| week3 | Playwright UI Automation | 🔄 Starting Next! |
 | week3 | Playwright UI Automation | ⏳ Coming Soon |
 
 ## 🏆 Portfolio Projects
