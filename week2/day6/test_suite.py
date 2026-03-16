@@ -1,6 +1,9 @@
+# test_suite.py
+# Define TestSuite class to manage and run test cases
+
 from test_case import TestCase
 
-class TestSuite:
+class TestSuite:                                #Manages and runs a collection of test cases. Supports priority filtering and category breakdown.
     def __init__(self, suite_name):
         self.suite_name = suite_name
         self.test_cases = []
