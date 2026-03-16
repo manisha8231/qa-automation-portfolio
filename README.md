@@ -26,7 +26,7 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week2/day5 | TestSuite mini framework — Rogers regression suite | ✅ Done |
 | week2/day6 | Extended TestSuite — categories, priority filter, skip | ✅ Done |
 | week3 | Playwright UI Automation | 🔄 Starting Next! |
-| week3 | Playwright UI Automation | ⏳ Coming Soon |
+
 
 ## 🏆 Portfolio Projects
 1. Python Test Data Generator (Week 2)
