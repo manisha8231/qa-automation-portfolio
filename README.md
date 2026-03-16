@@ -26,14 +26,15 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week2/day5 | TestSuite mini framework — Rogers regression suite | ✅ Done |
 | week2/day6 | Extended TestSuite — categories, priority filter, skip | ✅ Done |
 | week3 | Playwright UI Automation | 🔄 Starting Next! |
+| week3 | Playwright UI Automation | ⏳ Coming Soon |
 
 ## 🏆 Portfolio Projects
-| 1 | Python TestSuite Framework | Python OOP | ✅ Complete |
-| 2 | Playwright UI Framework | TypeScript + Playwright | 🔄 Week 3-7 |
-| 3 | AI Test Case Generator | Python + OpenAI | ⏳ Week 10 |
-| 4 | JMeter Performance Suite | JMeter | ⏳ Week 11-15 |
-| 5 | Rest Assured API Framework | Java + Rest Assured | ⏳ Week 16-19 |
-| 6 | AWS Cloud Test Pipeline | AWS + GitHub Actions | ⏳ Week 20-22 |
+1. Python Test Data Generator (Week 2)
+2. Playwright UI Framework (Week 7)
+3. AI Test Case Generator (Week 10)
+4. JMeter Performance Suite (Week 15)
+5. Rest Assured API Framework (Week 19)
+6. AWS Cloud Test Pipeline (Week 22)
 
 ## 📜 Certifications In Progress
 - ISTQB CT-AI — AI Testing Certification
