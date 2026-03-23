@@ -26,7 +26,8 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week2/day5 | TestSuite mini framework — Rogers regression suite | ✅ Done |
 | week2/day6 | Extended TestSuite — categories, priority filter, skip | ✅ Done |
 | week3/day1 | Playwright installed — first Rogers automation test | ✅ Done |
-| week3/day2 | Playwright Locators | ⏳ Coming Tomorrow |
+| week3/day2 | Playwright Locators — role, text, placeholder, CSS | ✅ Done |
+| week3/day3 | Playwright Page Object Model | ⏳ Coming Tomorrow |
 
 ## 🏆 Portfolio Projects
 | # | Project | Tech | Status |
