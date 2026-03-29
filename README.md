@@ -29,7 +29,8 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week3/day2 | Playwright Locators — role, text, placeholder, CSS | ✅ Done |
 | week3/day3 | Page Object Model — BasePage, LoginPage, HomePage | ✅ Done |
 | week3/day4 | Assertions + Screenshots — toHaveTitle, toHaveURL, negative assertions | ✅ Done |
-| week3/day5 | Multiple browsers + Full Rogers test suite | ⏳ Coming Tomorrow |
+| week3/day5 | Full Rogers test suite — 15 tests on Chrome, Firefox, Safari | ✅ Done |
+| week3/day6 | GitHub Actions CI/CD Pipeline | ⏳ Coming Tomorrow |
 
 ## 🏆 Portfolio Projects
 | # | Project | Tech | Status |
