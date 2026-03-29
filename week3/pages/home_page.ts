@@ -14,7 +14,10 @@ export class HomePage extends BasePage {
 
     // Navigate to home page
     async goto() {
-        await this.navigate(this.url);
+         await this.page.goto(this.url, {
+        timeout: 60000,
+        waitUntil: 'domcontentloaded'
+    });
     }
 
     // Verify home page loaded
@@ -41,4 +44,21 @@ export class HomePage extends BasePage {
         }
         return isRogers;
     }
+
+
+    async verifyNavigation() {
+        await this.waitForLoad();
+        const url = await this.getURL();
+        expect(url).toContain('rogers.com');
+        console.log('✅ Navigation verified');
+}
+
+// Take screenshot
+    async takeScreenshot(name: string) {
+        await this.page.screenshot({
+        path: `screenshots/${name}.png`,
+        fullPage: false
+       });
+       console.log(`📸 Screenshot saved: ${name}.png`);
+}
 }

@@ -17,7 +17,10 @@ constructor(page: Page) {
 
 //Navigate to a URL
 async navigate(url: string) {
-    await this.page.goto(url);
+    await this.page.goto(url,{
+        timeout: 60000,                // ← 60 seconds
+        waitUntil: 'domcontentloaded'  // ← don't wait for everything 
+        });
     console.log(`✅ Navigated to ${url}`);
 }
 
