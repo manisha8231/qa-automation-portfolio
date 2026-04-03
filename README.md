@@ -1,9 +1,6 @@
 # QA Automation Portfolio 🚀
 
-[![Playwright Tests](https://github.com/manisha8231/
-qa-automation-portfolio/actions/workflows/playwright.yml/
-badge.svg)](https://github.com/manisha8231/
-qa-automation-portfolio/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/manisha8231/qa-automation-portfolio/actions/workflows/playwright.yml/badge.svg)](https://github.com/manisha8231/qa-automation-portfolio/actions/workflows/playwright.yml)
 
 **Manisha Wadhwa** | 13+ Years QA Experience  
 Manual Tester → Full-Stack QA Automation Engineer
