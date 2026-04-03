@@ -52,5 +52,5 @@ from Manual QA to Full-Stack QA Automation Engineer.
 - AWS Cloud Practitioner CLF-C02
 
 ## 📬 Connect With Me
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)  
+[LinkedIn](https://www.linkedin.com/in/manisha-wadhwa-9486bb142/)  
 manisha8231@gmail.com
