@@ -1,5 +1,10 @@
 # QA Automation Portfolio 🚀
 
+[![Playwright Tests](https://github.com/manisha8231/
+qa-automation-portfolio/actions/workflows/playwright.yml/
+badge.svg)](https://github.com/manisha8231/
+qa-automation-portfolio/actions/workflows/playwright.yml)
+
 **Manisha Wadhwa** | 13+ Years QA Experience  
 Manual Tester → Full-Stack QA Automation Engineer
 
@@ -28,19 +33,22 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week3/day1 | Playwright installed — first Rogers automation test | ✅ Done |
 | week3/day2 | Playwright Locators — role, text, placeholder, CSS | ✅ Done |
 | week3/day3 | Page Object Model — BasePage, LoginPage, HomePage | ✅ Done |
-| week3/day4 | Assertions + Screenshots — toHaveTitle, toHaveURL, negative assertions | ✅ Done |
-| week3/day5 | Full Rogers test suite — 15 tests on Chrome, Firefox, Safari | ✅ Done |
-| week3/day6 | GitHub Actions CI/CD Pipeline | ⏳ Coming Tomorrow |
+| week3/day4 | Assertions + Screenshots | ✅ Done |
+| week3/day5 | Full Rogers suite — 15 tests on Chrome, Firefox, Safari | ✅ Done |
+| week3/day6 | GitHub Actions CI/CD Pipeline | ✅ Done |
+| week3/day7 | Week 3 Polish + Complete | ✅ Done |
+| week4 | Advanced Playwright — Coming Soon | ⏳ Next |
 
 ## 🏆 Portfolio Projects
 | # | Project | Tech | Status |
 |---|---------|------|--------|
 | 1 | Python TestSuite Framework | Python OOP | ✅ Complete |
-| 2 | Playwright UI Framework | TypeScript + Playwright | 🔄 Week 3-7 |
+| 2 | Playwright UI Framework — Rogers.com | Playwright + TypeScript + GitHub Actions | ✅ Complete |
 | 3 | AI Test Case Generator | Python + OpenAI | ⏳ Week 10 |
 | 4 | JMeter Performance Suite | JMeter | ⏳ Week 11-15 |
 | 5 | Rest Assured API Framework | Java + Rest Assured | ⏳ Week 16-19 |
 | 6 | AWS Cloud Test Pipeline | AWS + GitHub Actions | ⏳ Week 20-22 |
+
 
 ## 📜 Certifications In Progress
 - ISTQB CT-AI — AI Testing Certification
