@@ -34,7 +34,9 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week3/day5 | Full Rogers suite — 15 tests on Chrome, Firefox, Safari | ✅ Done |
 | week3/day6 | GitHub Actions CI/CD Pipeline | ✅ Done |
 | week3/day7 | Week 3 Polish + Complete | ✅ Done |
-| week4 | Advanced Playwright — Coming Soon | ⏳ Next |
+| week4/day1 | Data-driven testing — dynamic tests from arrays | ✅ Done |
+| week4/day2 | API Mocking — route interception, fake responses, network monitoring | ✅ Done |
+| week4/day3 | Playwright Fixtures + Hooks | ⏳ Coming Tomorrow |
 
 ## 🏆 Portfolio Projects
 | # | Project | Tech | Status |
