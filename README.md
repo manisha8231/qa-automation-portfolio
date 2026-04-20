@@ -36,7 +36,9 @@ from Manual QA to Full-Stack QA Automation Engineer.
 | week3/day7 | Week 3 Polish + Complete | ✅ Done |
 | week4/day1 | Data-driven testing — dynamic tests from arrays | ✅ Done |
 | week4/day2 | API Mocking — route interception, fake responses, network monitoring | ✅ Done |
-| week4/day3 | Playwright Fixtures + Hooks | ⏳ Coming Tomorrow |
+| week4/day2 | API Mocking — route interception, fake responses, network monitoring | ✅ Done |
+| week4/day3 | Fixtures + Hooks — beforeEach, afterEach, testInfo, auto screenshots | ✅ Done |
+| week4/day4 | Visual Testing + Advanced Screenshots | ⏳ Coming Tomorrow |
 
 ## 🏆 Portfolio Projects
 | # | Project | Tech | Status |
